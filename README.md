@@ -1,7 +1,7 @@
 # testdouble-guess-number
 本项目代码采用了采用tdd的方式实现猜数字游戏
 
-[![Build Status](https://travis-ci.org/xp-bootcamp/tdd-guess-number.svg?branch=master)](https://travis-ci.org/xp-bootcamp/testdouble-guess-number)
+![Build](https://github.com/xpbootcamp/testdouble-guess-number/workflows/Build/badge.svg)
 
 本项目代码采用了采用tdd的方式实现猜数字游戏
 
